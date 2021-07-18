@@ -5,10 +5,10 @@ Desafio 1 do programa Hiring Coders.
 
 Entregáveis: 
 
--Template do site oficial 
+- Template do site oficial 
 
--Landing page de promoções, estilo black friday; 
+- Landing page de promoções, estilo black friday; 
 
--Cadastre seu e-mail para receber promoções 
+- Cadastre seu e-mail para receber promoções 
 
--Dados no localstorage
+- Dados no localstorage
